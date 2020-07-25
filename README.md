@@ -1,1 +1,1 @@
-# Baruch-MFE-PythonWorkshop
+# baruch-mfe-python-summer
